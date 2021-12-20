@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SouvikDas2002
+- 👋 Hi, I’m @SouvikDas
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning computer language like: C++,Python,HTML,CSS.
 - 💞️ I’m looking to collaborate on ...
