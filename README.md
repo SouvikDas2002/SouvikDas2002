@@ -1,11 +1,13 @@
 <img alt="banner" width="100%" object-fit="cover" src="https://cdn6.f-cdn.com/contestentries/1478307/33510516/5c80051e4a7aa_thumb900.jpg">
 <h1 align="center">Hi 👋, I'm Souvik Das</h1>
 <h3 align="center">A passionate Web Developer and Interested in explore something new 💖</h3>
-<img align="right" alt="coding" height="300" width="400" border-radius="6" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+<img align="right" alt="coding" height="260" width="400" border-radius="6" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikdas2002&label=Profile%20views&color=0e75b6&style=flat" alt="souvikdas2002" /> </p>
+- 🔭 I’m currently **a Student of Chitkara University**<br>
+- 🌱 I’m currently learning **React js**<br>
+- 💬 Ask me about **Javascript,Reactjs and Ui design**<br><br>
 
-- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **souvik1188.be21@chitkarauniversity.edu.in**
 
