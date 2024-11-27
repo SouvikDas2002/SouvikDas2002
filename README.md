@@ -1,4 +1,3 @@
-<img alt="banner" width="100%" object-fit="cover" src="https://cdn6.f-cdn.com/contestentries/1478307/33510516/5c80051e4a7aa_thumb900.jpg">
 <h1 align="center">Hi 👋, I'm Souvik Das</h1>
 <h3 align="center">Full Stack Developer and Technology Enthusiastic</h3>
 
