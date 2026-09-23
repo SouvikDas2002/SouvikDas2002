@@ -11,9 +11,9 @@
 <!-- Quick links -->
 <p align="center">
   <a href="https://www.devsouvik.site/"><img src="https://img.shields.io/badge/Portfolio-devsouvik.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dev-souvik-das2002-enthusiasticsoftwaredeveloper/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/souvikd002-se/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dev.souvik2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1-4oGLe4URXMMK1dxxFmrbfWCf3VAQqnaUt/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1OUiAhBEk0qWCa8J7Rga7tFS2iI6l-tzE/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 <p align="center">
