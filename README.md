@@ -163,20 +163,23 @@ const souvik = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SouvikDas2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouvikDas2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&langs_count=8" alt="Top languages" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSouvikDas2002&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=36BCF7" alt="Public repos" />
+  <img src="https://img.shields.io/github/stars/SouvikDas2002?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20stars&color=36BCF7" alt="Total stars" />
+  <img src="https://img.shields.io/github/followers/SouvikDas2002?style=for-the-badge&logo=github&label=Followers&color=36BCF7" alt="Followers" />
 </p>
+
+<!--
+  Want the classic "GitHub stats" + "Top languages" cards back? Every public
+  github-readme-stats host is currently out of GitHub API quota (they render as a broken
+  image). Deploy your own free copy in ~2 minutes:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  then paste these two lines here with YOUR_HOST replaced:
+  <img height="180" src="https://YOUR_HOST/api?username=SouvikDas2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" />
+  <img height="180" src="https://YOUR_HOST/api/top-langs/?username=SouvikDas2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" />
+-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SouvikDas2002&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SouvikDas2002&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" width="95%" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SouvikDas2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
 </p>
 
 ---
@@ -184,11 +187,10 @@ const souvik = {
 ## 🤝 Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-souvik-das2002-enthusiasticsoftwaredeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/souvikd002-se/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.devsouvik.site/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:dev.souvik2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/souvikdas2002/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/souvikdas2002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codolio.com/profile/souvikd2002"><img src="https://img.shields.io/badge/Codolio-Coding%20Profile-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
